@@ -124,6 +124,14 @@ font-weight: 500;
 }
 
 
+.buy-detail :first-child{
+
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+
 
 
 /* .try::-webkit-scrollbar-thumb {
