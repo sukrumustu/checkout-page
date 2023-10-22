@@ -125,10 +125,32 @@ font-weight: 500;
 
 
 .buy-detail :first-child{
+    display: block;
+    width: 50%;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+
+
+}
+.buy-detail :last-child{
 
     font-size: 24px;
     font-weight: 600;
+    display: block;
+    width: 50%;
+    text-align: right;
+}
 
+.buy-detail{
+    width: 96%;
+    margin: auto;
+    position: relative;
+    border-top: 1px solid gray;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 
@@ -152,8 +174,3 @@ font-weight: 500;
     background-color: rgba(0, 0, 0, .5);
     -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
 } */
-
-
-
-
-
