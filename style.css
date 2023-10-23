@@ -159,15 +159,16 @@ font-weight: 500;
 
 
 
+
+
 /* .try::-webkit-scrollbar-thumb {
     visibility: visible;
     background-color: #850b0b;
-    visibility:
-    /* background: linear-gradient(180deg, pink, blue); */
-/* } */ */
+    background: linear-gradient(180deg, pink, blue)
+}
 
 
-/* .try::-webkit-scrollbar {
+.try::-webkit-scrollbar {
     -webkit-appearance: none;
     width: 7px;
 }
@@ -175,5 +176,5 @@ font-weight: 500;
 .try::-webkit-scrollbar-thumb {
     border-radius: 4px;
     background-color: rgba(0, 0, 0, .5);
-    -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+    -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5)
 } */
