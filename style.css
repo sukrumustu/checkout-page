@@ -72,6 +72,9 @@
     font-weight: 600;
 
 }
+.total-price:before{
+    content: "Product Total: $";
+}
 
 
 .quantity-controller{
